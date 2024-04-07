@@ -1,6 +1,7 @@
 Hi I am George👋,and want to become full-stack web devoper. 
-I am also a student and amatuer photographer👨‍💻📷.I have interest in web design and ui/ux.
-I am new here, and i hope to have nice day.
+I am also a student👨‍💻 of computer science and amatuer photographer📷.
+, have interest in web design and ui/ux. 🎨
+
 
 Have Learned:
 <div style="display:inline-block">
