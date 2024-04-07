@@ -1,4 +1,4 @@
-Hi I am George👋,and want to become full-stack web devoper. 
+Hi I am George👋,and want to become full-stack web devoloper. 
 I am also a student👨‍💻 of computer science and amatuer photographer📷.
 , have interest in web design and ui/ux. 🎨
 
