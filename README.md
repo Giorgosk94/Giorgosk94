@@ -1,4 +1,4 @@
-- 👋 Hi, I’m uncool_dude
+- 👋 Hi, I’m George
 - 👀 I’m interested in web design and development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on open source
