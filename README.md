@@ -1,7 +1,7 @@
 Hi I am George👋,and want to become full-stack web devoloper. 
-I am also a student👨‍💻 of computer science and amatuer photographer📷.
+I am also a student👨‍💻 of computer science and rookie photographer📷.
 , have interest in web design and ui/ux. 🎨
-
+<img src="https://i.ibb.co/cXWWDh9/image.jpg" alt="image" border="0">
 
 Have Learned:
 <div style="display:inline-block">
