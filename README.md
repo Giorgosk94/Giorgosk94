@@ -1,6 +1,4 @@
-Hi I am George👋,and want to become full-stack web devoloper. 
-I am also a student👨‍💻 of computer science and rookie photographer📷.
-, have interest in web design. 🎨
+
 
 
 <!---
